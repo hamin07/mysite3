@@ -1,5 +1,6 @@
 import '../../assets/style/pages/home/HomePage.css';
 import Home from '../../components/home/Home';
+import Home from '../../components/home/Home';
 import React from 'react';
 import { Link } from 'react-router-dom'
 
